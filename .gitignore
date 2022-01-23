@@ -1,0 +1,8 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/packages/PlayniteSDK.6.2.1
+/.vs
+/Source/obj
+/Source/packages/PlayniteSDK.6.2.1
