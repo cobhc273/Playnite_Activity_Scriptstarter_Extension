@@ -6,3 +6,5 @@
 /.vs
 /Source/obj
 /Source/packages/PlayniteSDK.6.2.1
+/Source/bin
+/Source/.vs/ActivityScripts/v17
